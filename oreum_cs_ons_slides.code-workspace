@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Theme",
+		"terminal.integrated.env.osx": { "PATH": "" },
+	}
+}
