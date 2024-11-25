@@ -19,7 +19,7 @@ reference tables.
 This dataset requires multiple advanced modelling methods to handle and mitigate
 bad / messy data, and in particular a very unusual **right-trunctation**.
 
-See comprehensive explanations and deep technical demonstratations of various
+See comprehensive explanations and deep technical demonstrations of various
 survival models in our public project
 [**Oreum Survival**](https://github.com/oreum-industries/oreum_survival)
 including Accelerated Failure Time and Piecewise Regression Models
